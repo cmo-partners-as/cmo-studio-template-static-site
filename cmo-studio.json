@@ -1,0 +1,9 @@
+{
+  "name": "Static site",
+  "description": "A one-page personal or business site in plain HTML and CSS. No build step.",
+  "runtime": "static",
+  "startup": "",
+  "database": false,
+  "mail": false,
+  "env": []
+}
