@@ -2,6 +2,8 @@
 
 # Static site
 
+**For AI agents:** read [AGENTS.md](AGENTS.md) and the CMO Studio guide at https://studio.cmopartners.co/llms.txt.
+
 A one-page personal or business site: a header, an intro, an about section, three project cards and a contact line. Plain HTML and CSS. No build step, no dependencies. The files are served as they are.
 
 Runs on [CMO Studio](https://studio.cmopartners.co/?ref=template-static-site).
